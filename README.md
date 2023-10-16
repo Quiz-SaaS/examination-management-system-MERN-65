@@ -136,12 +136,6 @@ changes and start a pull request to the master branch. Please also have a look
 at our Contribution guidelines
 [here](https://github.com/monizb/FireShort/blob/master/CONTRIBUTING.md)
 
-### Live Demo
-
-[![ems-gif.gif](https://s8.gifyu.com/images/ems-gif.gif)](https://gifyu.com/image/RYib)
-
-[https://ems-in.herokuapp.com](https://ems-in.herokuapp.com)
-
 ### License
 
 MIT Licensed (Check
